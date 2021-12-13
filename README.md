@@ -31,7 +31,7 @@ If you encounter any problems, please open an issue or feel free to contact us:
 
 
 ## How to cite 
-Please refer to our FSE'21 paper, [Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Applications](http://web.cs.ucla.edu/~miryung/Publications/fse2021-heterofuzz.pdf) for more details. 
+Please refer to our CHI'18 paper, [Visualizing API Usage Examples at Scale](http://web.cs.ucla.edu/~miryung/Publications/chi2018-examplore.pdf) for more details. 
 
 ### Bibtex  
 
